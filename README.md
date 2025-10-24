@@ -1,8 +1,8 @@
 # 🤖 Parallel Robot 3RRR Simulation
 
 ## 📘 Overview
-This repository contains simulation models for the **kinematics** and **dynamics** of a **3RRR parallel robot**.  
-The goal of the project is to develop and verify simulation models of the robot using **MATLAB/Simulink** and **SolidWorks**.
+This repository contains simulation models for the **kinematics** and **dynamics** of a **3RRR parallel robot** 
+Using **MATLAB/Simulink/Simcapce** and **SolidWorks**.
 
 ---
 
