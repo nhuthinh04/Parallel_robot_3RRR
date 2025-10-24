@@ -1,7 +1,7 @@
 # 🤖 Parallel Robot 3RRR Simulation
 
 ## 📘 Overview
-This repository contains simulation models for the **kinematics** and **dynamics** of a **3RRR parallel robot** 
+This repository contains simulation models for the **kinematics** and **dynamics** of a **3RRR parallel robot**.
 Using **MATLAB/Simulink/Simcapce** and **SolidWorks**.
 
 ---
