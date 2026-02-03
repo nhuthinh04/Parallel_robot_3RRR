@@ -13,7 +13,7 @@ Using **MATLAB/Simulink/Simcapce** and **SolidWorks**.
 ├── Kinematics_3RRR/         # Kinematic simulation in MATLAB Simulink
 ├── Solid_3RRR/              # 3D CAD model in SolidWorks
 ├── Simscape/                # Simscape Toolbox model in MATLAB
-└── baocao_3rrr.docx/pdf     # Project report (Word/Pdf file)
+└── report_3rrr.docx/pdf     # Project report (Word/Pdf file)
 ```
 ## ⚙️ Requirements
 - MATLAB/Simulink (R2023b or later)  
